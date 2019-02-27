@@ -1,8 +1,6 @@
 # dev_portfolio
 Project portfolio in ReactJS
 
-**_dev_portfolio_**
-
 #### About
 The project is an online developer portfolio that has two pages: `Home` where you will have a summary of your professional life and `Contact` where a possible contractor could contact you.
 
